@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English post from severall parts of this kingdome, lately sent to London: viz. From Truro, Iuly 26. Exeter, Iuly 29. Newcastle, Iuly 30. Yorke, Iuly 29. Lancaster, Iuly 30. From Dorchester, Iuly 31. Banbury, Iuly 28. Canterbury, August 2. Caermarden, Iuly 27. Lincolne, Iuly 29. Ely, August 1.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84025</idno>
+            <idno type="STC">Wing E3110</idno>
+            <idno type="STC">Thomason E168_14</idno>
+            <idno type="STC">ESTC R212689</idno>
+            <idno type="EEBO-CITATION">99871278</idno>
+            <idno type="PROQUEST">99871278</idno>
+            <idno type="VID">157014</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84025)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157014)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E168[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English post from severall parts of this kingdome, lately sent to London: viz. From Truro, Iuly 26. Exeter, Iuly 29. Newcastle, Iuly 30. Yorke, Iuly 29. Lancaster, Iuly 30. From Dorchester, Iuly 31. Banbury, Iuly 28. Canterbury, August 2. Caermarden, Iuly 27. Lincolne, Iuly 29. Ely, August 1.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157014:1"/>
+            <pb facs="tcp:157014:1" rendition="simple:additions"/>
+            <p>THE ENGLISH POST From ſeverall parts of this Kingdome, Lately ſent to LONDON: Viz: From
+<list>
+                  <item>Truro, Iuly 26.</item>
+                  <item>Exeter, Iuly 29.</item>
+                  <item>Newcaſtle, Iuly 30.</item>
+                  <item>Yorke, Iuly 29.</item>
+                  <item>Lancaſter, Iuly 30.</item>
+                  <item>Dorcheſter, Iuly 31.</item>
+                  <item>Banbury, Iuly 28.</item>
+                  <item>Canterbury, Auguſt 2.</item>
+                  <item>Caermarden, Iuly 27.</item>
+                  <item>Lincolne, Iuly 29.</item>
+                  <item>Ely, Auguſt 1.</item>
+               </list>
+            </p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157014:2"/>
+            <pb facs="tcp:157014:2"/>
+            <head>The Engliſh Poſt.</head>
+            <div type="part">
+               <opener>
+                  <dateline>From Truro <date>Iuly 26.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Weſterne Sea-coaſts in Cornwall are not yet ſecured of their feares or dangers, from their common enemies, the Turkiſh Pyrates, they are in great hopes, that the large ſummes of mo<g ref="char:EOLhyphen"/>neyes, collected out of ſo infinite a ſcarcity as the poverty of this countrey hath long groaned under, ſhall ſpeedily be imployed in ſhipping for the ſafety of the Seas, againſt an invaſion of the land. No ſuſ<g ref="char:EOLhyphen"/>pition of further perill remaines, but that the pre<g ref="char:EOLhyphen"/>vention (long look't for) may come at laſt. However, the parly about it, and preparation for it, takes up ſo much time in the year, that their doubts are not few, the remedy may come too late for the diſeaſe. <hi>Spe<g ref="char:EOLhyphen"/>ramus meliora.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Exeter <date>Iuly 29.</date>
+                  </dateline>
+               </opener>
+               <p>The diſmiſſion by Parliament of the tyranny and irregularity of ſome Courts in Yorke and Wales, give us ſome aſſurance, that the intollerable abuſe and corruption ſhall be taken away, which reignes in the Stanneries in Devonſhire and Cornwall. A grea<g ref="char:EOLhyphen"/>ter miſchiefe and oppreſſion by ſubordinate Mini<g ref="char:EOLhyphen"/>ſters, can never rage in a more unſufferable vio<g ref="char:EOLhyphen"/>lence. If the grand Councell of this Kingdome now aſſembled, take not into conſideration this deſparate
+<pb facs="tcp:157014:3"/>calamity, and remove it, the whole body of two Counties are upon an irrecoverable loſſe: for now we expect redreſſe, or never.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Newcaſtle <date>Iuly 30.</date>
+                  </dateline>
+               </opener>
+               <p>Here our weekly comforts in particular letters from London of the departure of the Scots, prove in effect but f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>int cordials. What our loſſes have been by ſubj<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction to ſo many hourly thraldomes, the reſt of the land may conceive, we only feele. Their mo<g ref="char:EOLhyphen"/>neyes being received, they will (no queſtion) re<g ref="char:EOLhyphen"/>move. Power and compulſion for the moſt part, ef<g ref="char:EOLhyphen"/>fects more peace then either treaty or reward. Our Coales (which are our treaſure and ſubſiſtance) are cheaper then the labour in working for them: Our returnes for the commodity we cannot call our own, ſince wee are daily accountable for all wee can call ours. E<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther we unconfidently look for a quicke de<g ref="char:EOLhyphen"/>liverance, or muſt uncomfortably periſh in our miſe<g ref="char:EOLhyphen"/>ries. Our laſt refuge is our continuall refuge, our prayers. No warre is ſo terrible as that which de<g ref="char:EOLhyphen"/>voures and conſumes under the viſor of Amity and p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Yorke <date>Iuly 29.</date>
+                  </dateline>
+               </opener>
+               <p>It is hard to write in <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w many ſtraits this Citie and Countrey are incumbred. The disbanding of thoſe Souldiers, who have too long p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtered our Co<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>trey, proceeds not with ſo eaſie ſucceſſe as is deſired. They move hence with ſuch a ſlow pace, as if they retreated b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckward with their faces for<g ref="char:EOLhyphen"/>ward. No doubt needs a reſolution for their paſſage to their owne homes. It is moſt likely they will prove as troubleſome in their <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>urnes, as they have
+<pb facs="tcp:157014:3"/>been in their ſtay and abode here. Let us once quit theſe diſorders, and wee reſolve hereafter (if the wiſedome of the ſupreame authority will give us le<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve) to be ſafeſt in the defence of our own ſtrength, yet (<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owever my Lord Generall very nobly endea<g ref="char:EOLhyphen"/>vou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s) we know not what will follow till we be ut<g ref="char:EOLhyphen"/>terly cleared of this burthen.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From L<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ncaſter <date>Iuly 30.</date>
+                  </dateline>
+               </opener>
+               <p>Diſcontented perſons, and Popiſhly affected (of which conjuration our countrey yeelds not a few) upon hearing of the Prieſts execution at Tyburne, Iuly 26. l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt, begin to mutter, that now the Crown of Martyrdom is burniſhing for their trayterous brood. That this Saint (ſo they miſcall <hi>Walker</hi> the ſeducer) is on<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly a Harbinger for the glorious (villaines and) profeſſors which muſt follow. They talke generally, how baniſhment or death is the mercy they muſt ex<g ref="char:EOLhyphen"/>pect. Some emiſſaries have been intercepted between their confederates in Cheſhire, in Wales, and the lo<g ref="char:EOLhyphen"/>cuſts in this County. They deſiſt not from plotting, but we truſt that he who fitteth in heaven dot<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laugh them to ſcorne, and will in his owne bleſſed time diſ<g ref="char:EOLhyphen"/>cover both them and it.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Dorcheſter in Dorſet <date>Iuly 31.</date>
+                  </dateline>
+               </opener>
+               <p>It is not an eaſie griefe to heare how many peſti<g ref="char:EOLhyphen"/>lent Sects and Schiſmaticks are couched in London, the name of Puritane lieth too long br<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d, the more refined Proteſtants of England. Infinites in number have coveted the addition of that reputation, whoſe l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>berty inſenſu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lity, perfidiouſneſſe, cozenage, ignorance, and all licentious reproach, rendred them not more odious then inexcuſable: neither have ſome
+<pb facs="tcp:157014:4"/>eminent Prelates of our Kingdome forborne advan<g ref="char:EOLhyphen"/>tage without diſtinction to contemne and plucke up thoſe wholeſome ſeeds in ſteed of the other tares. We in this towne have taſted too deeply of that im<g ref="char:EOLhyphen"/>putation, though our lives and actions have pleaded an integrity: for we never kickt againſt the holy of<g ref="char:EOLhyphen"/>fice of a Biſhop, but have heartily ſorrowed for the avarice, ambition, &amp;c. of ſuch as uſurp the Epiſcopall See; we wiſh, pray for, and expect a pious reformati<g ref="char:EOLhyphen"/>on, not confuſion in the church, or abſolute abolition.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Banbury <date>Iuly 28.</date>
+                  </dateline>
+               </opener>
+               <p>Since the memorable execution of the Tinkers in this towne, no ſeverity of any itinerant Iudge hath been filed upon our records. Here is a ſtrong rumor of the charges and delinquencies of the Moderators in law, who determined ſuites in the foure Weſtmin<g ref="char:EOLhyphen"/>ſters tearmes; but what ſatisfaction any of them hath made either by defence or ſufferance, wee are clearly ignorant of. The brethren amongſt us (ſo tearmed &amp; covetous to be tearmed ſo) are as ignorant as here<g ref="char:EOLhyphen"/>tofore, but more malepert. They truſt they ſhall bee allowed (not a Church but) a formality of diſcipline independant on any ſuperiour, but whom they ſhall chuſe out of their pack. Inſolent are their preſump<g ref="char:EOLhyphen"/>tions, and they have an intollerable meaſure of the Spirit amongſt them; excuſe them, 'tis the evill ſpirit, which we hope will ere long by the lawfull exor<g ref="char:EOLhyphen"/>ciſme of authority be conjured.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Canterbury, <date>Auguſt 2.</date>
+                  </dateline>
+               </opener>
+               <p>Having loſt our country man (lately A L. keeper) we are as naked and unprovided of our Summer Hoſ<g ref="char:EOLhyphen"/>pitality in our Archbiſhops Reſtraints. An old ſaying
+<pb facs="tcp:157014:4"/>hath in times paſt galloped about our Iſland, that Kent and Chriſtendome were two, let that be true or not, ſure we are as the ſtreame runs, London and Canterbury are not Chriſtians alike: you at London enjoy too much plenty, though you keep your owne cloſe enough; and wee at Canterbury complaine, that we have little of our owne to keepe, and yet are as willing as you, to part with part of that little by the poll. It is better (ſaies the proverbe) to be for<g ref="char:EOLhyphen"/>tunate then wiſe; we will add no more at this time, onely it is better to ſay nothing and live without an<g ref="char:EOLhyphen"/>ſwer, then by over much talke to be found guilty of want of ſilence.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Caerwarden, <date>Iuly 27.</date>
+                  </dateline>
+               </opener>
+               <p>Great is the joy throughout Wales, ſince the Act and the Rate for collection of monies is come to their view. They (I meane the Welch) content themſelves with the ſingle payment of ſix pence a man, though they be all and every one of them ſeve<g ref="char:EOLhyphen"/>rally and joyntly a Gentleman <hi>per ſe;</hi> yet they envy not the Eſquires ſo reputed, their titles purchaſed with the large and unknown ſum of ten pound. A Yeoman of Kent (ſay wee in wales) may have a thouſand <hi>per annum,</hi> and not compare with one of us for a long pedegree from the beginning of the world. Heere wee live in peace, not troubled with feare of enemies, nor overpreſt with our few frie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Scots; the Iriſh, indeed, ſometimes viſit our coaſtes, but as newtralls for we neither much reward their begging, nor they thanke or commend us for our Almes, and charity.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:157014:5"/>
+               <opener>
+                  <dateline>From Lincoln <date>Iuly 29.</date>
+                  </dateline>
+               </opener>
+               <p>How the changes of times worke effects in other Shires, we l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt not after. The old ſaying was, the Divell looks over Lincolne, but we defie the moth-eaten proverbe, and hope one way or other, that Lin<g ref="char:EOLhyphen"/>colne ſhall over looke the D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vell. Miſtake us not, for though wee have a fatt country, which is a ſhrewd temptation, yet we are not prouder then we were wont, for feare wee may be fl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eced as ſome of the northerne parts have beene. Being neither too neere London, nor too farre off, we ſtand as free from the thunder of Excommunication as from the Bulls of the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ope. The fall of Doctors Commons (if it be true) hath much diſheartned our Officialls, (with whom this county ſwarm'd) and the ruine of the High Commiſſion and Star-chamber Courts, puts us in comfort (a cold one) that more Mercy might be found in the Kings Bench. We acquaint you with our ſtate for the preſent, but have elſe little matter to write of, till in another letter, you may chance to here ſomething of the drain'd land and Marſhes.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Ely <date>Auguſt 1.</date>
+                  </dateline>
+               </opener>
+               <p>Cambridge is in no ſmall doubt of ſome of his chiefe Divines; and we for neighborhoods ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke, are with child to heare ſome good of our Biſhop. Tis wondrous ſtrange that buſineſſes of expectation are carried with ſo miraculous a Iuſtice and Secrecy. We dare not inquire into a wiſdome, which wee know we cannot attaine unto, but will therefore humbly w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ite upon the iſſue, which in actions or any nature returnes the Inſtrument, either reward of honour and profit, or puniſhment.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
